@@ -1,0 +1,17 @@
+.index{
+  nav{
+    height: 50px;
+    width: 100%;
+    background: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .destra{
+      width: 30%;
+      height: 50px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+}
